@@ -1,0 +1,4 @@
+baseURL = "https://blackwallpaperzeer.vercel.app"
+languageCode = "en-us"
+title = "Black Wallpapper HD"
+theme = "tale-hugo-master"
